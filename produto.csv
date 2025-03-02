@@ -1,0 +1,6 @@
+produto,categoria,entregue,bebida
+cadeira,A,False,False
+mesa,B,True,False
+mouse,C,False,false
+agua,A,True,True
+leite,X,False,True
